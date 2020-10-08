@@ -8,7 +8,7 @@ Dataset used: http://mklab.iti.gr/files/imageblur/CERTH_ImageBlurDataset.zip
 
 
  
-# Intuition
+## Intuition
 ##### Laplacian filter: 
 
     We can use laplacian filter to get the edges in the image and get the variance and maximum 
